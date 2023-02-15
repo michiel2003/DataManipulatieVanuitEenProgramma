@@ -1,2 +1,2 @@
 # DataManipulatieVanuitEenProgramma
-Oefeningen en examen voor DMVP graduaat programmere 2023
+Oefeningen en examen voor DMVP graduaat programmeren 2023
