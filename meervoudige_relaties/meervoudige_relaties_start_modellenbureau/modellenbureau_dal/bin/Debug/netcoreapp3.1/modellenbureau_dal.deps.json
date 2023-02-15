@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "modellenbureau_dal/1.0.0": {
+        "dependencies": {
+          "modellenbureau_models": "1.0.0"
+        },
+        "runtime": {
+          "modellenbureau_dal.dll": {}
+        }
+      },
+      "modellenbureau_models/1.0.0": {
+        "runtime": {
+          "modellenbureau_models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modellenbureau_dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "modellenbureau_models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
