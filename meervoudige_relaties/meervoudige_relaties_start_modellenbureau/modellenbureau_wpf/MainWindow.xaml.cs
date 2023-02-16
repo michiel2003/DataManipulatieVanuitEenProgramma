@@ -52,11 +52,21 @@ namespace modellenbureau_wpf
         {
             try
             {
-                int selected = lbBureaus.SelectedIndex;
-                ModellenBureau bureau = Bureaus.ElementAt(selected);
                 String newNaam = txtNaam.Text;
-                double newLengte = double.Parse(txtLengte.Text);
-                double newPols = double.Parse(txtPols.Text);
+                if(!double.TryParse(txtPols.Text, out double newPols)){
+                    throw new Exception("Pols moet een numerieke waarde zijn");
+                }
+                if(!double.TryParse(txtLengte.Text, out double newLengte))
+                {
+                    throw new Exception("Lengte moet een numerieke waarde zijn");
+                }
+                if(lbBureaus.SelectedItem is ModellenBureau bureau)
+                {
+                }
+                else
+                {
+                    throw new Exception("Er moet een bureau geselecteerd zijn");
+                }
 
                 bureau.voegToe(newNaam, newPols, newLengte);
                 lbBureaus.Items.Refresh();
