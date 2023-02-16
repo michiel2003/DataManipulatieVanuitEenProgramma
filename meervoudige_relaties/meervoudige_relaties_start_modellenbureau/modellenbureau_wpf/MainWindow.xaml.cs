@@ -39,6 +39,7 @@ namespace modellenbureau_wpf
                 ModellenBureau NewBureau = new ModellenBureau(newBureauName);
                 Bureaus.Add(NewBureau);
                 lbBureaus.Items.Refresh();
+                txtNaamBureau.Clear();
             }
             catch (Exception ex)
             {
@@ -59,6 +60,9 @@ namespace modellenbureau_wpf
 
                 bureau.voegToe(newNaam, newPols, newLengte);
                 lbBureaus.Items.Refresh();
+                txtPols.Clear();
+                txtLengte.Clear();
+                txtNaam.Clear();
             }
             catch(Exception ex)
             {

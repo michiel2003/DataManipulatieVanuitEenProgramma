@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
+      "projectUniqueName": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
       "projectName": "modellenbureau_models",
-      "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
+      "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
       "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-      "outputPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\obj\\",
+      "outputPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\michi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

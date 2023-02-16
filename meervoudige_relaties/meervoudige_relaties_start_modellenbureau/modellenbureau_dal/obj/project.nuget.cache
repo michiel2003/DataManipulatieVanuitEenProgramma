@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yA/kP4M7EdUsJIn43ZEkk62iakTYEebr109SyHWKCBom385YFfYcFzqTmk24fHRRkwp/cd0pTvK/+jB7qHF8BQ==",
+  "dgSpecHash": "bmOaenyaaRp6aRJKOUZ0XW1JD9JYAXmRb/Mf/kNNFQpXxeY7MNGJDoC/br1q/ApdTnjkHpJEwOwudmFtLq0tVw==",
   "success": true,
-  "projectFilePath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

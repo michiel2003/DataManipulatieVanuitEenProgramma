@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj": {}
+    "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj": {}
   },
   "projects": {
-    "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj": {
+    "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
+        "projectUniqueName": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
         "projectName": "modellenbureau_dal",
-        "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
+        "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj",
         "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-        "outputPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\obj\\",
+        "outputPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
-                "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj"
+              "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
+                "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj"
               }
             }
           }
@@ -54,37 +54,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
+    "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
+        "projectUniqueName": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
         "projectName": "modellenbureau_models",
-        "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
+        "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj",
         "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-        "outputPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\obj\\",
+        "outputPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,18 +114,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj": {
+    "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
+        "projectUniqueName": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
         "projectName": "modellenbureau_wpf",
-        "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
+        "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
         "packagesPath": "C:\\Users\\michi\\.nuget\\packages\\",
-        "outputPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\obj\\",
+        "outputPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\michi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,11 +142,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj": {
-                "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj"
+              "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj": {
+                "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_dal\\modellenbureau_dal.csproj"
               },
-              "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
-                "projectPath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj"
+              "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj": {
+                "projectPath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_models\\modellenbureau_models.csproj"
               }
             }
           }
@@ -191,24 +177,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.30, 3.1.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -217,7 +185,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

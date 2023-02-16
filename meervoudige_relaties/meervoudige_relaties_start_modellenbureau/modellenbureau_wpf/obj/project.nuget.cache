@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hd7eEW7Hk6VpGW3Q+AI5B1QbrZ0Z8+C5kmJuh9QaFqNy2mdOtTAyIfeCkQfG6D6/xXHPdFew0hhzqSR/VyqhBg==",
+  "dgSpecHash": "/QaaeKyLhmm+C+4Moju5vo0Da7V/FU0u4sxSEI5mB5jAAD1lgOvB69+dtzjq0oA3Bel5KbOZdiFrteT0PdKnlg==",
   "success": true,
-  "projectFilePath": "S:\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
+  "projectFilePath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_modellenbureau\\modellenbureau_wpf\\modellenbureau_wpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michi\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\michi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\michi\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
