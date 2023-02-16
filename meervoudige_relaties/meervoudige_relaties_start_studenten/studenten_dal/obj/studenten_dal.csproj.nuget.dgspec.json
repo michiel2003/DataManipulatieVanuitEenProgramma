@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_dal\\studenten_dal.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_dal\\studenten_dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_dal\\studenten_dal.csproj",
+        "projectName": "studenten_dal",
+        "projectPath": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_dal\\studenten_dal.csproj",
+        "packagesPath": "C:\\Users\\Sebastiaan\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sebastiaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\studenten_models.csproj": {
+                "projectPath": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\studenten_models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\studenten_models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\studenten_models.csproj",
+        "projectName": "studenten_models",
+        "projectPath": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\studenten_models.csproj",
+        "packagesPath": "C:\\Users\\Sebastiaan\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Datamanipulatie\\03-meervoudige-relaties\\meervoudige_relaties_start_studenten\\studenten_models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sebastiaan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

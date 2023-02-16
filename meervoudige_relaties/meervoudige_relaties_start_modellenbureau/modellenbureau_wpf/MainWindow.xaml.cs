@@ -43,7 +43,7 @@ namespace modellenbureau_wpf
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.Message, "Aanmaken", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
 
         }
@@ -60,10 +60,7 @@ namespace modellenbureau_wpf
                 {
                     throw new Exception("Lengte moet een numerieke waarde zijn");
                 }
-                if(lbBureaus.SelectedItem is ModellenBureau bureau)
-                {
-                }
-                else
+                if(!(lbBureaus.SelectedItem is ModellenBureau bureau))
                 {
                     throw new Exception("Er moet een bureau geselecteerd zijn");
                 }
@@ -76,7 +73,7 @@ namespace modellenbureau_wpf
             }
             catch(Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.Message, "Toevoegen", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
         }
 
@@ -86,13 +83,16 @@ namespace modellenbureau_wpf
             try
             {
                 int selected = lbBureaus.SelectedIndex;
-                ModellenBureau bureau = Bureaus.ElementAt(selected);
+                if (!(lbBureaus.SelectedItem is ModellenBureau bureau))
+                {
+                    throw new Exception("Geen bureau geselecteerd");
+                }
                 String superslank = bureau.DrukSlank();
                 MessageBox.Show(superslank);
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.Message, "Slank", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
             
         }

@@ -1,0 +1,54 @@
+<Window x:Class="studenten_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="txtKlasnaam"  Grid.Row="0" Grid.Column="0" Margin="5"
+                 materialDesign:HintAssist.Hint="Klasnaam" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+        <Button x:Name="btnAanmaken" Content="Klas aanmaken" Grid.Row="0" Grid.Column="1" Margin="5" Click="btnAanmaken_Click" />
+
+        <GroupBox Header="StudentGegevens" materialDesign:ColorZoneAssist.Mode="SecondaryMid" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"  Margin="5,5,5,5">
+            <StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <RadioButton Name="rbStudent" Content="Student" Margin="5"
+                                  Grid.Row="0" Grid.Column="0"
+                                 Style="{StaticResource MaterialDesignTabRadioButton}" />
+                    <RadioButton Name="rbKotstudent" Content="Kotstudent" Margin="5"
+                                 Grid.Row="0" Grid.Column="1"
+                                 Style="{StaticResource MaterialDesignTabRadioButton}" />
+                </Grid>
+
+                <TextBox x:Name="txtNummer" Margin="5"
+                         materialDesign:HintAssist.Hint="Studentnummer" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <TextBox x:Name="txtNaam"  Margin="5"
+                         materialDesign:HintAssist.Hint="Studentnaam" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <TextBox x:Name="txtKotbaas"  Margin="5"
+                         materialDesign:HintAssist.Hint="Kotbaas" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <TextBox x:Name="txtKotadres"  Margin="5"
+                         materialDesign:HintAssist.Hint="Kotadres" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <Button x:Name="btnToevoegen" Content="Toevoegen"  Grid.ColumnSpan="2" Margin="5" Click="btnToevoegen_Click" />
+            </StackPanel>
+        </GroupBox>
+        <TextBlock x:Name="txtDetails"  FontFamily="Courier New"
+                   Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Margin="5" />
+        <CheckBox x:Name="cbDetail" Content="Details" Grid.Column="2" Grid.Row="2" Margin="0,5,5,5" HorizontalAlignment="Right" Width="390" Checked="cbDetail_Checked" Unchecked="cbDetail_Unchecked" />
+    </Grid>
+</Window>

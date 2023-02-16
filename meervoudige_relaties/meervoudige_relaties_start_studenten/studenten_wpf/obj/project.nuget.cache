@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZtkRCm97sjak1gztOYhioj63tznA6L0PMjbKTniVZw5Cp1hqAegBuh9HmYDRCj7mbOughb11CaqXFxOK7tONgQ==",
+  "success": true,
+  "projectFilePath": "A:\\Graduaat 2023\\DMP\\DataManipulatieVanuitEenProgramma\\meervoudige_relaties\\meervoudige_relaties_start_studenten\\studenten_wpf\\studenten_wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michi\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\michi\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

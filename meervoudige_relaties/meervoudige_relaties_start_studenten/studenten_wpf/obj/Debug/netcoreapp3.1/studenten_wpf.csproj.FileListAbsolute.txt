@@ -1,0 +1,52 @@
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.exe
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.deps.json
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.runtimeconfig.json
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.runtimeconfig.dev.json
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.pdb
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_models.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_models.pdb
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.AssemblyReference.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf_MarkupCompile.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf_MarkupCompile.lref
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\App.baml
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.g.resources
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.AssemblyInfoInputs.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.AssemblyInfo.cs
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.CoreCompileInputs.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.CopyComplete
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.pdb
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.genruntimeconfig.cache
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.AssemblyReference.cache
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\MainWindow.baml
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\App.g.cs
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf_MarkupCompile.cache
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf_MarkupCompile.lref
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.dll
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.pdb
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.exe
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.deps.json
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.runtimeconfig.json
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.runtimeconfig.dev.json
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.dll
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_wpf.pdb
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_models.dll
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\bin\Debug\netcoreapp3.1\studenten_models.pdb
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\App.baml
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.g.resources
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.GeneratedMSBuildEditorConfig.editorconfig
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.AssemblyInfoInputs.cache
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.AssemblyInfo.cs
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.CoreCompileInputs.cache
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.csproj.CopyComplete
+A:\Graduaat 2023\DMP\DataManipulatieVanuitEenProgramma\meervoudige_relaties\meervoudige_relaties_start_studenten\studenten_wpf\obj\Debug\netcoreapp3.1\studenten_wpf.genruntimeconfig.cache

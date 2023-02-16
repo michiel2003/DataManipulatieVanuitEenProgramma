@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "studenten_dal/1.0.0": {
+        "dependencies": {
+          "studenten_models": "1.0.0"
+        },
+        "runtime": {
+          "studenten_dal.dll": {}
+        }
+      },
+      "studenten_models/1.0.0": {
+        "runtime": {
+          "studenten_models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "studenten_dal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "studenten_models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

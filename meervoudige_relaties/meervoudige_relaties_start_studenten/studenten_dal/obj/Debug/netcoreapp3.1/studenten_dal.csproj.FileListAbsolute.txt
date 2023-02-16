@@ -1,0 +1,13 @@
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\bin\Debug\netcoreapp3.1\studenten_dal.deps.json
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\bin\Debug\netcoreapp3.1\studenten_dal.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\bin\Debug\netcoreapp3.1\studenten_dal.pdb
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\bin\Debug\netcoreapp3.1\studenten_models.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\bin\Debug\netcoreapp3.1\studenten_models.pdb
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.csproj.AssemblyReference.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.AssemblyInfoInputs.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.AssemblyInfo.cs
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.csproj.CoreCompileInputs.cache
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.csproj.CopyComplete
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.dll
+C:\Projects\Datamanipulatie\03-meervoudige-relaties\meervoudige_relaties_start_studenten\studenten_dal\obj\Debug\netcoreapp3.1\studenten_dal.pdb
