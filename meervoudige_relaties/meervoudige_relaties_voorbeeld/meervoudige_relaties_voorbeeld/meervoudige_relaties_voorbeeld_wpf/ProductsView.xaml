@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="meervoudige_relaties_voorbeeld_wpf.ProductsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800"
+             Background="{DynamicResource MaterialDesignPaper}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!-- voor de geïnteresseerden: ipv listbox werken met listview -->
+        <!--<ListView x:Name="lbProducten" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Code}" Header="Code" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Beschrijving}" Header="Beschrijving" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Prijs}" Header="Prijs" />
+                </GridView>
+            </ListView.View>
+        </ListView>-->
+
+        <ListBox x:Name="lbProducten" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Margin="10" FontFamily="Courier New" />
+
+        <Label Name="lblType" Content="Type:" Grid.Row="1" Grid.Column="0" />
+        <StackPanel Orientation="Horizontal" Margin="4" Grid.Row="1" Grid.Column="1">
+            <RadioButton x:Name="rbBoek" Style="{StaticResource MaterialDesignLightRadioButton}" Margin="4" Content="Boek" Checked="RbBoek_Checked" />
+            <RadioButton x:Name="rbSoftware" Style="{StaticResource MaterialDesignLightRadioButton}" Margin="4" Content="Software" Checked="RbSoftware_Checked" />
+            <RadioButton x:Name="rbProduct" Style="{StaticResource MaterialDesignLightRadioButton}" Margin="4" Content="Product" Checked="RbProduct_Checked" />
+        </StackPanel>
+        <Label Name="lblCode" Content="Code:" Grid.Row="2" Grid.Column="0" />
+        <TextBox Name="txtCode" Grid.Column="1" Text="" HorizontalAlignment="Left" Margin="5,5,5,5" Grid.Row="2"
+                 TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" />
+        <Label Name="lblBeschrijving" Content="Beschrijving:" Grid.Row="3" Grid.Column="0" />
+        <TextBox Name="txtBeschrijving" Grid.Column="1" Text="" HorizontalAlignment="Left"
+                 Margin="5,5,5,5" Grid.Row="3" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" />
+        <Label Name="lblPrijs" Content="Prijs:" Grid.Row="4" Grid.Column="0" />
+        <TextBox Name="txtPrijs" Grid.Column="1" Text="" HorizontalAlignment="Left"
+                 Margin="5,5,5,5" Grid.Row="4" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" />
+        <Label Name="lblExtra" Content="Author:" Grid.Row="5" Grid.Column="0" Visibility="Hidden" />
+        <TextBox Name="txtExtra" Grid.Column="1" Text="" Visibility="Hidden" HorizontalAlignment="Left"
+                 Margin="5,5,5,5" Grid.Row="5" TextWrapping="Wrap"  VerticalAlignment="Top" Width="152" />
+
+        <Button Name="btnAdd" Content="Add Product" Click="BtnAdd_Click" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Margin="5,5,5,5"  VerticalAlignment="Center" />
+        <Label Name="lblErrors" Content="Errors:" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="3" />
+    </Grid>
+</UserControl>
